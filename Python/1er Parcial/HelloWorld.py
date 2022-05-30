@@ -1,0 +1,5 @@
+print ("hello world")
+print ("my name is Francisco Jimenez")
+print ("I'm in 9th D")
+print ("My favorite food is pizza and pasta")
+print ("I love robotics, it's my hobby")
