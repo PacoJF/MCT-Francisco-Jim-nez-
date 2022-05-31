@@ -1,0 +1,16 @@
+print("Area of a circle(pi as 3.14):")
+radius=int(input("Input a radius: "))
+print("The area of the circle is:", 3.14*radius*radius)
+
+print("")
+print("Area of a trapezoid:")
+base = int(input("Input the length of the upper base: "))
+base2 = int(input("Input the length of the lower base: "))
+height = int(input("Input the height: "))
+print("The area of the trapezoid is:", ((base+base2)/2)*height)
+
+print("")
+print("Area of a rhombus:")
+diagonal = int(input("Input the length of the smallest diagonal: "))
+diagonal2 = int(input("Input the length of the biggest diagonal: "))
+print("The area of the rhombus is:", (diagonal*diagonal2)/2)
